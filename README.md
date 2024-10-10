@@ -1,13 +1,18 @@
-Machine Learning Project - [CardiacTek(ECG Interpretation Software)]
+**Machine Learning Project - [CardiacTek(ECG Interpretation Software)]**
+
 Description
 
 This project is an AI-powered system for diagnosing Myocardial Infarction (MI) through Electrocardiogram (ECG) image analysis, with a specific focus on integrating this functionality into existing Electronic Health Records (EHR) systems. By employing advanced machine learning algorithms, the project aims to provide healthcare professionals with accurate and timely diagnoses of MI based on ECG data. This integration will facilitate seamless access to diagnostic insights within the EHR framework, enabling clinicians to make informed decisions quickly and efficiently. The initiative seeks to enhance patient care by ensuring that critical diagnostic information is readily available, thereby improving treatment planning and overall outcomes for patients at risk of or experiencing heart attacks.
 
 GitHub Repository
-Link to GitHub Repository
+Link to GitHub Repository[https://github.com/Praise-Atadja/Mission_Capstone_Project.git]
+----
 
-How to Set Up the Environment and the Project
-Prerequisites
+**How to Set Up the Environment and the Project
+**
+
+**Prerequisites**
+
 Node.js (v14 or later)
 npm (Node Package Manager)
 Python (v3.x)
