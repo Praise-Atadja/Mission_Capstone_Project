@@ -95,7 +95,7 @@ I plan to conduct thorough research on integrating CardiacTek with existing EHR 
 [GitHub Repository](https://github.com/Praise-Atadja/Mission_Capstone_Project.git)
 
 ### Video Demo
-*(Include link or embed video demo showcasing app functionalities, emphasizing seamless navigation and user interaction)*
+*(https://drive.google.com/file/d/10y7fHOqceTCogYSxG02CUHUHLPAO9Ujj/view?usp=sharing)*
 
 ---
 
